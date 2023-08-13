@@ -1,8 +1,3 @@
-# React + Vite
+# Cookiefy - Cookie customization tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Cookiefy is an innovative web application that empowers users to create their dream cookies in real-time, offering a delightful and interactive baking experience like no other. With cutting-edge technologies, Cookiefy allows users to unleash their creativity by customizing every aspect of their cookies, from shape and quantity to color and texture, all within an intuitive and user-friendly interface.
